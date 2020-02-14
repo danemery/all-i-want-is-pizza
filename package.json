@@ -1,0 +1,16 @@
+{
+  "name": "all-i-want-is-pizza",
+  "version": "1.0.0",
+  "description": "Like Yelp, but just pizza.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pizza",
+    "hungry",
+    "hangry"
+  ],
+  "author": "Daniel Emery",
+  "license": "ISC"
+}
